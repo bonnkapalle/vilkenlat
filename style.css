@@ -1,0 +1,16 @@
+body{
+
+    margin: auto;
+    width: 50%;
+    background-color:darkgrey;
+    min-width: 30%;
+}
+
+#latnamn{
+
+    font-size: 30px;
+    text-decoration: underline;
+}
+#lattext{
+    font-size:19px;
+}
